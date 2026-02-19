@@ -23,10 +23,8 @@
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=pvegasd-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvegasd-dev&layout=compact&theme=gotham&langs_count=8"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvegasd-dev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![pvegasd-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev/github-readme-stats) [![pvegasd-dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev/github-readme-stats)
+
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
