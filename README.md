@@ -13,9 +13,9 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [ULL](https://www.ull.es/)
 
-- 🌱 I am currently in the race **Software Engineering**
+- 🌱 I am currently in the race of **Software Engineering**
 
-- 📫 How to reach me **dvegascal1@gamil.com**
+- 📫 How to reach me **dvegascal1@gmail.com**
 
 
 
