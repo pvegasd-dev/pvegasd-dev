@@ -13,11 +13,9 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [ULL](https://www.ull.es/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **Software Engineering**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
-
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **d**
 
 
 
