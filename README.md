@@ -15,7 +15,7 @@
 
 - 🌱 I am currently in the race **Software Engineering**
 
-- 📫 How to reach me **d**
+- 📫 How to reach me **dvegascal1@gamil.com**
 
 
 
@@ -35,7 +35,3 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ------
-
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
