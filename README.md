@@ -23,7 +23,7 @@
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvegasd-dev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![pvegasd-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev/github-readme-stats) [![pvegasd-dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pvegasd-dev&theme=algolia)](https://github.com/pvegasd-dev/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvegasd-dev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 
 <!-- GIF FOOTER -->
