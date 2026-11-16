@@ -15,7 +15,7 @@
 
 - 🌱 I am currently in the race of **Software Engineering**
 
-- 📫 How to reach me **dvegascal1@gmail.com**
+- 📫 How to reach me 
 
 
 
